@@ -1,4 +1,4 @@
-PHP Slim Framework 2.* Boilerplate App
+PHP Slim Framework 2.* BoilerApp
 ===========
 
 * Grunt
