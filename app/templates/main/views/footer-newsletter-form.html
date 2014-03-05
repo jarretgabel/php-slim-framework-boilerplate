@@ -1,0 +1,70 @@
+<form action="/newsletter" id="mxb-newsletter-form" class="mxb-newsletter-form mxb-footer-newsletter-form" method="post">
+	<div class="mxb-form-thank-you">
+		<p class="mxb-footer-form-thank-you-copy">
+			{{ui.newsletter.thank_you}}
+		</p>
+	</div>
+	<div class="mxb-form-body">
+		<div class="mxb-newsletter-left">
+			<div class="mxb-newsletter-control">
+				<h5 class="mxb-newsletter-title">
+					{{ui.newsletter.email}}*:
+				</h5>
+				<input type="email" class="mxb-newsletter-input mxb-newsletter-email" placeholder="{{ui.newsletter.email_placeholder}}" tabindex=10>
+			</div>
+			<div class="mxb-newsletter-control">
+				<h5 class="mxb-newsletter-title">
+					{{ui.newsletter.gender}}:
+				</h5>
+				<select tabindex=12 class="mxb-newsletter-sex">
+					<option value="" selected="selected" disabled="disabled">
+						{{ui.newsletter.select_one}}
+					</option>
+					<option value="{{ui.newsettler.male}}">
+						{{ui.newsletter.male}}
+					</option>
+					<option value="{{ui.newsettler.female}}">
+						{{ui.newsletter.female}}
+					</option>
+				</select>
+				<h5 class="mxb-newsletter-title mxb-contact-required">
+					* {{ui.newsletter.required}}
+				</h5>
+			</div>
+		</div>
+		<div class="mxb-newsletter-right">
+			<div class="mxb-newsletter-control">
+				<h5 class="mxb-newsletter-title">
+					{{ui.newsletter.name}}:
+				</h5>
+				<input type="text" class="mxb-newsletter-input mxb-newsletter-firstname" placeholder="{{ui.newsletter.first_name_placeholder}}" tabindex=13 name="first-name">
+				<input class="mxb-newsletter-input mxb-newsletter-lastname" type="text" placeholder="{{ui.newsletter.last_name_placeholder}}" tabindex=14 name="last-name">
+			</div>
+
+			<div class="mxb-newsletter-control">
+				<h5 class="mxb-newsletter-title">
+					{{ui.newsletter.birthday}}:
+				</h5>
+				<input class="mxb-newsletter-input mxb-newsletter-dob" type="date" tabindex=15>
+			</div>
+
+			<div class="mxb-newsletter-control">
+				<h5 class="mxb-newsletter-title">
+					{{ui.newsletter.zipcode}}:
+				</h5>
+				<input class="mxb-newsletter-input mxb-newsletter-zipcode" type="text" pattern="[0-9]*" placeholder="{{ui.newsletter.zipcode_placeholder}}" tabindex=16>
+			</div>
+
+			<input class="ie8BackgroundFix icon-newsletter-submit mxb-newsletter-submit" type="submit" value="" tabindex=17>
+
+		</div>
+
+	</div>
+
+
+
+
+
+
+
+</form>

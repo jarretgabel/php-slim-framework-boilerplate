@@ -1,0 +1,191 @@
+input[type="date"]::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
+
+body {
+	background: #34849F;
+	// width: 100%;
+	// height: 100%;
+	overflow: hidden;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  @include clearfix;
+}
+
+select:focus,
+a:focus {
+	outline:none;
+}
+
+select {
+	text-shadow: none;
+	-webkit-text-shadow: none;
+	-moz-text-shadow: none;
+	-moz-appearance: none;
+  text-indent: 0.01px;
+  text-overflow: "";
+}
+
+a:focus, a:active,
+button::-moz-focus-inner,
+input[type="reset"]::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner,
+select::-moz-focus-inner,
+input::-moz-focus-inner,
+input[type="file"] > input[type="button"]::-moz-focus-inner {
+    border: 0 !important;
+    outline : 0 !important;
+}
+
+select, option {
+	border: 0;
+  outline: 1px none;
+}
+
+select option[disabled]:first-child {
+	outline: none;
+	border: 0;
+}
+
+::-moz-focus-inner {
+	border:0;
+}
+
+ul, li {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	@include font-reg;
+	font-size: 13px;
+	line-height: 1.2em;
+}
+
+.ie8BackgroundFix,
+img {
+  background: transparent;
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)";
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);
+  zoom: 1;
+}
+
+select {
+	width: 100%;
+	font-size: 16px;
+	line-height: 1;
+	border: 0;
+	border-radius: 0;
+	height: 30px;
+	appearance: none;
+	-webkit-appearance: none;
+	background: url('../images/ui/dropdown-arrow.png') no-repeat right #360000;
+	padding: 6px 4%;
+	color: $yellow;
+	line-height: 17px;
+	font-size: 13px;
+	@include font-reg;
+	cursor: pointer;
+	outline: solid 0px red;
+  text-shadow: 0 0 0 $yellow;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+option {
+	position: relative;
+	z-index: 200000;
+}
+
+select.error {
+	outline: solid 2px red;
+}
+
+.no-touch select:hover {
+	background: url('../images/ui/dropdown-arrow_hover.png') no-repeat right #360000;
+}
+
+.no-touch select:disabled:hover {
+	background: url('../images/ui/dropdown-arrow.png') no-repeat right #360000;
+}
+
+select option :first-child {
+	color: #854f2b !important;
+}
+
+select:focus {
+	outline: solid 2px #FFA400;
+	border: 0;
+}
+
+select,
+select option {
+	color: $yellow;
+}
+
+button::-moz-focus-inner,
+input[type="reset"]::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner,
+input[type="file"] > input[type="button"]::-moz-focus-inner {
+	border: none;
+}
+
+select:-moz-focusring {
+  color: $yellow;
+  text-shadow: 0 0 0 #000;
+}
+
+.ui-asset-holder {
+	display: none;
+}
+
+img[data-postloadimage] {
+	@include animate(opacity, .5s);
+	@include opacity(0);
+}
+
+img.loaded[data-postloadimage] {
+	@include opacity(1);
+}
+
+input {
+	-webkit-appearance: none;
+	@include border-radius(0);
+}
+
+select::-ms-expand {
+  display: none;
+}
+a:focus, a:active,
+button::-moz-focus-inner,
+input[type="reset"]::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner,
+select::-moz-focus-inner,
+input[type="file"] > input[type="button"]::-moz-focus-inner {
+  border: 0;
+  outline : 0;
+}
+
+video {
+	display: block;
+}
+
+#video {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	width: auto;
+	min-width: 100%;
+	height: auto;
+	min-height: 100%;
+	z-index: -100;
+	background: transparent url(video-bg.jpg) no-repeat;
+	background-size: cover;
+}
+
+.video-controls {
+	position: fixed;
+	bottom: 30px;
+}

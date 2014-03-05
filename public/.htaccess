@@ -1,0 +1,172 @@
+RewriteEngine On
+
+RewriteBase /
+
+
+# BEGIN GZIP
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+</ifmodule>
+# END GZIP
+
+# Mobile Redirect
+RewriteEngine On
+RewriteCond %{QUERY_STRING} !^desktop
+RewriteCond %{HTTP_USER_AGENT} "android|blackberry|googlebot-mobile|iemobile|iphone|ipod|#opera mobile|palmos|webos" [NC]
+RewriteCond %{HTTP_USER_AGENT} "acs|alav|alca|amoi|audi|aste|avan|benq|bird|blac|blaz|brew|cell|cldc|cmd-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "dang|doco|eric|hipt|inno|ipaq|java|jigs|kddi|keji|leno|lg-c|lg-d|lg-g|lge-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT}  "maui|maxo|midp|mits|mmef|mobi|mot-|moto|mwbp|nec-|newt|noki|opwv" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "palm|pana|pant|pdxg|phil|play|pluc|port|prox|qtek|qwap|sage|sams|sany" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "sch-|sec-|send|seri|sgh-|shar|sie-|siem|smal|smar|sony|sph-|symb|t-mo" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "teli|tim-|tosh|tsm-|upg1|upsi|vk-v|voda|w3cs|wap-|wapa|wapi" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "wapp|wapr|webc|winw|winw|xda|xda-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "up.browser|up.link|windowssce|iemobile|mini|mmp" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "symbian|midp|wap|phone|pocket|mobile|pda|psp" [NC]
+RewriteRule ^$ http://maxbrenner.com/mobile [L,R=302]
+
+
+#RewriteCond %{HTTP_HOST} ^maxbrenner\.com$
+#RewriteRule ^(.*)$ "http\:\/\/www\.maxbrenner\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^home\.aspx$ "http\:\/\/maxbrenner\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^home\.aspx/$ "http\:\/\/maxbrenner\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^max-blog/$ "http\:\/\/maxbrenner\.com\/blog\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^franchise-information/$ "http\:\/\/maxbrenner\.com\/corporate\/franchise-information\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^faqs/$ "http\:\/\/maxbrenner\.com\/corporate\/faqs\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^careers/$ "http\:\/\/maxbrenner\.com\/corporate\/careers\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^privacy-policy/$ "http\:\/\/maxbrenner\.com\/corporate\/privacy-policy\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^terms-of-use/$ "http\:\/\/maxbrenner\.com\/corporate\/terms-of-use\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^social-responsibility/$ "http\:\/\/maxbrenner\.com\/corporate\/social-responsibility\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^contact-us/$ "http\:\/\/maxbrenner\.com\/corporate\/contact-us\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^social$ "http\:\/\/maxbrenner\.com\/social-media\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^about\.html$ "http\:\/\/maxbrenner\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^branches\.html$ "http\:\/\/maxbrenner\.com\/locations\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^contact\.aspx$ "http\:\/\/maxbrenner\.com\/corporate\/contact-us\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^home\.aspx$ "http\:\/\/maxbrenner\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^menus\.html$ "http\:\/\/maxbrenner\.com\/locations\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^online_reservation\.html$ "http\:\/\/maxbrenner\.com\/locations\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^online_reservation_ny\.html$ "http\:\/\/maxbrenner\.com\/locations\/usa\/restaurant-nyc" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^online_reservation_ph\.html$ "http\:\/\/maxbrenner\.com\/locations\/usa\/restaurant-philadelphia" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^franchise-opportunity\.aspx$ "http\:\/\/maxbrenner\.com\/corporate\/franchise-information\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^menus/menus_usa/SWEETS_menu_final_9-1-13Lo-res\.pdf$ "http\:\/\/maxbrenner\.com\/locations\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^menus/menus_usa/Secret_Kids_Menu\.pdf$ "http\:\/\/maxbrenner\.com\/locations\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^menus/menus_usa/USQ_NY_food_menu9-1-2013Lo-Res\.pdf$ "http\:\/\/maxbrenner\.com\/menus\/restaurant-nyc\/food-menu-nyc.pdf" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^menus/menus_usa/Boston_food_menu_9-1-2013Lo-Res\.pdf$ "http\:\/\/maxbrenner\.com\/menus\/restaurant-boston\/food-menu-boston.pdf" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^menus/menus_usa/Philly_food_menu_9-1-2013Lo-Res\.pdf$ "http\:\/\/maxbrenner\.com\/menus\/restaurant-philadelphia\/food-menu-philadelphia.pdf" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^menus/menus_usa/LVfoodmenu_v29-10-13\.pdf$ "http\:\/\/maxbrenner\.com\/menus\/restaurant-las-vegas\/food-menu-las-vegas.pdf" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^maxbrenner\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.maxbrenner\.com$
+RewriteRule ^menus/menus_usa/Bethesda_Menu_7-31-13\.pdf$ "http\:\/\/maxbrenner\.com\/menus\/restaurant-bethesda\/dessert-menu-bethesda.pdf" [R=301,L]
+
+
+# add trailing slash
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^.*[^/]$ /$0/ [L,R=301]
+
+
+AddDefaultCharset UTF-8
+
+AddType application/vnd.ms-fontobject .eot
+AddType font/ttf .ttf
+AddType font/otf .otf
+AddType application/x-font-woff .woff
+AddType video/webm .webm
+
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+
+#RewriteRule ^ index.php [QSA,L]
+
+<ifModule mod_rewrite.c>
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} !index
+    RewriteRule ^(.*)$ /index.php#$1 [L]
+</ifModule>
+
+# sets page header for IE
+<FilesMatch "\.(htm|html|php)$">
+  <IfModule mod_headers.c>
+    BrowserMatch MSIE ie
+    Header set X-UA-Compatible "IE=Edge,chrome=1" env=ie
+  </IfModule>
+</FilesMatch>

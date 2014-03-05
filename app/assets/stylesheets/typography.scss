@@ -1,0 +1,81 @@
+// @import url(http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic);
+// @import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+
+@mixin font-reg {
+	font-family: 'Arvo', serif;
+	font-weight: normal;
+}
+
+@mixin font-bold {
+	font-family: 'Arvo', serif;
+	font-weight: 700;
+}
+
+@mixin menu-font-bold {
+	font-family: 'Oswald', serif;
+	font-weight: 700;
+}
+
+h1 {
+	margin: 0;
+	font-size: 80px;
+	@include menu-font-bold;
+	font-size: 24px;
+}
+
+h2 {
+	margin: 0;
+	@include menu-font-bold;
+	font-size: 20px;
+}
+
+h3 {
+	margin: 0;
+	font-size: 20px;
+	@include font-bold;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+h4 {
+	margin: 0;
+	font-size: 25px;
+	@include menu-font-bold;
+	text-transform: uppercase;
+}
+
+h5 {
+	@include font-bold;
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	font-size: 15px;
+	line-height: 1.3em;
+	@include font-reg;
+}
+
+.mxb-mobile p {
+	font-size: 14px;
+	line-height: 1.3em;
+}
+
+a, .no-touch a:hover, a:visited {
+	@include animate(color, .15s);
+	text-decoration: none;
+	color: white;
+}
+
+.no-touch a:hover {
+	text-decoration: none;
+}
+
+.no-touch a:hover {
+	color: #F4CC05;
+}
+
+a:active { outline: none; }

@@ -1,0 +1,35 @@
+- set title = metadata.title ? "#{metadata.title}" : "Video Center | ARI Video Center"
+%title= "#{title}"
+
+%meta{ :name => "description", :content => metadata.description }
+%meta{ "http-equiv" => "Content-Type", :content => "text/html; charset=utf-8" }
+/ %meta{ "http-equiv" => "X-UA-Compatible", :content => "IE=Edge,chrome=1"}
+
+%base{ :href => "" }
+
+:javascript
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-39895757-1']);
+	_gaq.push(['_setDomainName', 'maxbrenner.com']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_setSiteSpeedSampleRate', 100]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+%meta{ :name => "viewport", :content => "width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1" }
+
+%meta{ :name => "p:domain_verify", :content => "0aa6cfc6451e6f17e1fa5400f9543492" }
+
+%meta{ :property => "og:title", :content => metadata.title }
+%meta{ :property => "og:type", :content => "website" }
+%meta{ :property => "og:url", :content => metadata.url }
+%meta{ :property => "og:description", :content => metadata.description }
+%meta{ :property => "og:image", :content => metadata.image }
+
+<!--[if lt IE 9]>
+<script>document.createElement('video');</script>
+<![endif]-->

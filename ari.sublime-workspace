@@ -1,0 +1,3125 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"curre",
+				"currentDate"
+			],
+			[
+				"preven",
+				"preventDefault()	event.js"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"brand-tim",
+				"brand-timeline-item"
+			],
+			[
+				"timelin",
+				"timelineItems"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mxb-",
+				"mxb-mobile-corporate"
+			],
+			[
+				"repeat",
+				"no-repeat"
+			],
+			[
+				"socia",
+				"social-responsibility"
+			],
+			[
+				"soci",
+				"social-responsibility"
+			],
+			[
+				"Res",
+				"Responsibility"
+			],
+			[
+				"priv",
+				"privacy-policy"
+			],
+			[
+				"whats-new",
+				"whats-new-archives"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bg",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"getCu",
+				"getCurrentLocationPage"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"choco",
+				"choco-bar-content_5a"
+			],
+			[
+				"mobile",
+				"mobilePosition"
+			],
+			[
+				"curren",
+				"currentPage"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"getEl",
+				"getElementById	jsDOM"
+			],
+			[
+				"austra",
+				"australia"
+			],
+			[
+				"loca",
+				"localizedUI"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"mw",
+				"min-width"
+			],
+			[
+				"location",
+				"locationCollection"
+			],
+			[
+				"filter",
+				"filteredPageFeedCount"
+			],
+			[
+				"origin",
+				"originalEvent"
+			],
+			[
+				"client",
+				"clientY	jsEvent"
+			],
+			[
+				"locat",
+				"locationArray"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"slides",
+				"slidesLength"
+			],
+			[
+				"slide",
+				"slidesData"
+			],
+			[
+				"getAnim",
+				"getAnimationValue(x, y)	BaseController.js"
+			],
+			[
+				"updateS",
+				"updateStep()	State.js"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"le",
+				"length()	async.js"
+			],
+			[
+				"json",
+				"json_a"
+			],
+			[
+				"transpare",
+				"transparent"
+			],
+			[
+				"visi",
+				"visibility()	media-views.js"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName()	Utils.js"
+			],
+			[
+				"current",
+				"currentUrl"
+			],
+			[
+				"her",
+				"Herzliya"
+			],
+			[
+				"La",
+				"Lakes"
+			],
+			[
+				"A",
+				"Australia"
+			],
+			[
+				"P",
+				"Parramatta"
+			],
+			[
+				"previous",
+				"previousPage"
+			],
+			[
+				"APP",
+				"APP_URL"
+			],
+			[
+				"p",
+				"pos-r	position: relative;"
+			],
+			[
+				"getEle",
+				"getElementsByTagName	jsDOM"
+			],
+			[
+				"getAttri",
+				"getAttribute"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"request",
+				"requestsBaseUrl"
+			],
+			[
+				"blog",
+				"blogPosts"
+			],
+			[
+				"behind",
+				"behindTheCounter"
+			],
+			[
+				"meta",
+				"metadata"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"getElem",
+				"getElementsByClassName"
+			],
+			[
+				"addEvent",
+				"addEventListener	jsEvent"
+			],
+			[
+				"incl",
+				"include	@include"
+			],
+			[
+				"setstate",
+				"setState()	Buy.js"
+			],
+			[
+				"getLeme",
+				"getElementsByClassName"
+			],
+			[
+				"getAttr",
+				"getAttribute	jsDOM"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"locationD",
+				"locationDetailsNav"
+			],
+			[
+				"addEVent",
+				"addEventListener"
+			],
+			[
+				"closeNew",
+				"closeNewsletterForm"
+			],
+			[
+				"getELeme",
+				"getElementById	jsDOM"
+			],
+			[
+				"transp",
+				"transparent"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"visibilt",
+				"visibility"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"scrollbarContent",
+				"scrollbarContentHeight"
+			],
+			[
+				"scrollCon",
+				"scrollContentHeight"
+			],
+			[
+				"addE",
+				"addEventListener"
+			],
+			[
+				"subm",
+				"submit"
+			],
+			[
+				"addEve",
+				"addEventListener	jsEvent"
+			],
+			[
+				"getE",
+				"getElementById	jsDOM"
+			],
+			[
+				"getELe",
+				"getElementsByClassName"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ov",
+				"ov-h	overflow: hidden;"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"const",
+				"constructor	jsProp"
+			],
+			[
+				"inl",
+				"include	@include"
+			],
+			[
+				"nextU",
+				"nextUrl"
+			],
+			[
+				"slideshow",
+				"slideshowPageIdx"
+			],
+			[
+				"updateCOmpl",
+				"updateComplete"
+			],
+			[
+				"prop",
+				"property"
+			],
+			[
+				"tran",
+				"transform	jsGraphics"
+			],
+			[
+				"tweenO",
+				"tweenObj"
+			],
+			[
+				"tweenObje",
+				"tweenObjects"
+			],
+			[
+				"tweenObjec",
+				"tweenObject"
+			],
+			[
+				"addListe",
+				"addListener(evt, listener)	EventEmitter.js"
+			],
+			[
+				"animation",
+				"animationProgress"
+			],
+			[
+				"InteractionCon",
+				"InteractionController"
+			],
+			[
+				"Disp",
+				"dispatchEvent	jsEvent"
+			],
+			[
+				"UPD",
+				"UPDATE_STEP"
+			],
+			[
+				"locationDe",
+				"locationDetailContainer"
+			],
+			[
+				"locationSe",
+				"locationSelector"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"chocolate",
+				"chocolate-connoisseur"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"opaci",
+				"opacity"
+			],
+			[
+				"behin",
+				"behindTheCounter"
+			],
+			[
+				"locations",
+				"locations"
+			],
+			[
+				"emitEvent",
+				"emitEvent(evt, args)	Dispatcher.js"
+			],
+			[
+				"countr",
+				"countries"
+			],
+			[
+				"countri",
+				"countriesDiv"
+			],
+			[
+				"animateOu",
+				"animateOutComplete"
+			],
+			[
+				"siteLoad",
+				"siteLoadController"
+			],
+			[
+				"getElementBy",
+				"getElementsByClassName"
+			],
+			[
+				"mxb-slieshow",
+				"mxb-slideshow-slide"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"mxb-slideshow-",
+				"mxb-slideshow-slide"
+			],
+			[
+				"previou",
+				"previousPage"
+			],
+			[
+				"full",
+				"fullUrlCollection"
+			],
+			[
+				"GLOB",
+				"GLOBALS"
+			],
+			[
+				"main",
+				"mainPageCollection"
+			],
+			[
+				"nextS",
+				"nextSlide"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "au/app/templates/main/base.haml",
+			"settings":
+			{
+				"buffer_size": 976,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "au/app/data/seed.php",
+			"settings":
+			{
+				"buffer_size": 124763,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "au/public/corporate/index.php",
+			"settings":
+			{
+				"buffer_size": 4878,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/App.js",
+			"settings":
+			{
+				"buffer_size": 6149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/views/Footer.js",
+			"settings":
+			{
+				"buffer_size": 6806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/main/base.haml",
+			"settings":
+			{
+				"buffer_size": 976,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "au/app/templates/sitemap/base.html",
+			"settings":
+			{
+				"buffer_size": 1496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "au/app/templates/corporate/base.html",
+			"settings":
+			{
+				"buffer_size": 2714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/main/pages/chocolate-connoisseur.haml",
+			"settings":
+			{
+				"buffer_size": 5760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "au/app/templates/main/pages/chocolate-connoisseur.haml",
+			"settings":
+			{
+				"buffer_size": 5750,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/data/seed.php",
+			"settings":
+			{
+				"buffer_size": 127524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/main/pages/whats-new.haml",
+			"settings":
+			{
+				"buffer_size": 1889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "au/app/assets/stylesheets/whats-new.scss",
+			"settings":
+			{
+				"buffer_size": 1867,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "au/app/templates/main/pages/whats-new.haml",
+			"settings":
+			{
+				"buffer_size": 1889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.php",
+			"settings":
+			{
+				"buffer_size": 9788,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/views/WhatsNew.js",
+			"settings":
+			{
+				"buffer_size": 1851,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "au/public/sitemap/index.php",
+			"settings":
+			{
+				"buffer_size": 1405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 255 files for \"count=2\"\n\n0 matches across 0 files\n\n\nSearching 255 files for \"count=3\"\n\n/Users/jarretgabel/Sites/max-brenner/au/public/index.php:\n  134  \n  135      // refactor links to /blog/{slug}/{id}\n  136:     /*$blogPosts = fetch_content($GLOBALS['MXB']['settings']['requestsBaseUrl'] . 'wp-blog/api/get_tag_posts/?tag_slug=blog&&count=3');\n  137      $posts = json_decode($blogPosts);\n  138      for ($i=0; $i < count($posts->posts) ; $i++) {\n  ...\n  145  \n  146      // refactor links to /blog/{slug}/{id}\n  147:     $whatsNew = fetch_content($GLOBALS['MXB']['settings']['requestsBaseUrl'] . 'wp-blog/api/get_tag_posts/?tag_slug=whats-new-au&&count=3');\n  148      $posts = json_decode($whatsNew);\n  149      for ($i=0; $i < count($posts->posts) ; $i++) {\n\n/Users/jarretgabel/Sites/max-brenner/au/public/mobile/index.php:\n  142  \n  143      // refactor links to /blog/{slug}/{id}\n  144:     $blogPosts = fetch_content('http://maxbrennerstaging.com/wp-blog/api/get_tag_posts/?tag_slug=blog&&count=3');\n  145      $posts = json_decode($blogPosts);\n  146      for ($i=0; $i < count($posts->posts) ; $i++) {\n  ...\n  154  \n  155      // refactor links to /blog/{slug}/{id}\n  156:     $whatsNew = fetch_content('http://maxbrennerstaging.com/wp-blog/api/get_tag_posts/?tag_slug=whats-new&&count=3');\n  157      $posts = json_decode($whatsNew);\n  158      for ($i=0; $i < count($posts->posts) ; $i++) {\n\n4 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 1438,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/sublime-grunt-build/grunt.sublime-build",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Snippet: cssreset"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP Haml"
+			],
+			[
+				"ruby ",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ruby h",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"uby haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"html ",
+				"Tidy HTML"
+			],
+			[
+				"php haml",
+				"Set Syntax: PHP Haml"
+			],
+			[
+				"javasc",
+				"Snippet: javascript-jsmodule"
+			],
+			[
+				"java",
+				"Snippet: javascript-jsmodule"
+			],
+			[
+				"Snippet: java",
+				"Snippet: javascript-jsmodule"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"Snippet: function",
+				"Snippet: Function"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"Snippet: ibm",
+				"Snippet: ibm-media"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"node",
+				"Nodejs::Default File Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"comment",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"bl",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"snip",
+				"Snippet: ipad"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jarretgabel/Sites/max-brenner/README.md",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/corporate/base.html",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/corporate/pages/media-center.html",
+		"/Users/jarretgabel/Sites/max-brenner/au/public/corporate/index.php",
+		"/Users/jarretgabel/Sites/max-brenner/au/public/admin/templates/corporate-pages.html",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/Footer.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/globals/footer.html",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/main/globals/footer.html",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/assets/javascripts/views/Footer.js",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/main/pages/locations.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/pages/locations.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/locations.scss",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/assets/stylesheets/locations.scss",
+		"/Users/jarretgabel/Sites/max-brenner/au/public/index.php",
+		"/Users/jarretgabel/Sites/max-brenner/Gruntfile.js",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/data/facebook-old.json",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/corporate/pages/faqs-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/sitemap/pages/home.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/sitemap/pages/home.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/base.haml",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/data/seed.php",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/footer.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/data/seed.php",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/faqs-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/corporate/pages/terms-of-use-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/main/globals/main-nav.html",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/main/pages/buy.haml",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/main/views/slideshow.haml",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/mobile/globals/main-nav-list.haml",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/mobile/views/slideshow.haml",
+		"/Users/jarretgabel/Sites/max-brenner/public/index.php",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/feedback-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/Locations.js",
+		"/Users/jarretgabel/Sites/max-brenner/au/app/templates/corporate/pages/feedback-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/mxb.sublime-project",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/globals/footer.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/corporate/feedback-success.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/utils/utils.php",
+		"/Users/jarretgabel/Sites/max-brenner/public/.htaccess",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/globals/metadata.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/globals/metadata.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/index.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/views/slideshow.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/Slideshow.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/views/footer-newsletter-form.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/vendor/AsyncAPI.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/social.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/pages/chocolate-connoisseur.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/pages/blog.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/pages/whats-new.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/errors/error-404.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/errors/error-404.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/locale/usa.json",
+		"/Users/jarretgabel/Sites/max-brenner/app/locale/australia.json",
+		"/Users/jarretgabel/Sites/max-brenner/app/locale/japan.json",
+		"/Users/jarretgabel/Sites/max-brenner/app/locale/israel.json",
+		"/Users/jarretgabel/Sites/max-brenner/app/locale/singapore.json",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/views/social-newsletter-form.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/views/social-newsletter-form.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/MobileApp.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/controllers/NewsletterFormController.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/core/State.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/controllers/ScrollbarsController.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/Reservations.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/Buy.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/MainNav.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/MainPages.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/Home.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/WhatsNew.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/SiteLoader.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/blog.scss",
+		"/Users/jarretgabel/Sites/max-brenner/public/assets/stylesheets/corporate/about-us.css",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/App.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/reservations.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/_ui.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/Config.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/views/Social.js",
+		"/Users/jarretgabel/Sites/max-brenner/public/assets/javascripts/whats-new-archives/home.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/home.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/slideshow.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/corporate/faqs.haml",
+		"/Users/jarretgabel/Sites/max-brenner/public/mobile/index.php",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/faqs-mobile-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/public/assets/stylesheets/corporate/styles.css",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/styles.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/site-loader.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/siteLoader.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/typography.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/globals/css.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/mainNav.scss",
+		"/Users/jarretgabel/Sites/max-brenner/public/assets/javascripts/modernizr-2.7.1.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/javascripts/vendor/jquery-ui-1.10.4.custom.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/globals/scripts.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/base.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/views/reservations-form.haml",
+		"/Users/jarretgabel/Sites/max-brenner/public/whats-new-archives/index.php",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/careers-mobile-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/careers-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/globals/css.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/corporate/index.haml",
+		"/Users/jarretgabel/Sites/max-brenner/public/assets/stylesheets/corporate/feedback.css",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/media-center-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/globals/main-nav.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/feedback.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/feedback-success.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/media-center-mobile-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/public/corporate/.htaccess",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/corporate/feedback-success.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/base.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/main/views/reservations-form.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/in-the-news-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/views/slideshow.haml",
+		"/Users/jarretgabel/Sites/max-brenner/public/corporate/index.php",
+		"/Users/jarretgabel/Sites/max-brenner/app/assets/stylesheets/mobile.scss",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/about-us-content.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/globals/main-nav.haml",
+		"/Users/jarretgabel/Sites/max-brenner/public/assets/javascripts/corporate/feedback.js",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/corporate/terms-of-use.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/corporate/privacy-policy.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/locations.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/base-plain.html",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/max-mail.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/reservations.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/chocolate-bar.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/mobile/pages/corporate/careers.haml",
+		"/Users/jarretgabel/Sites/max-brenner/app/templates/corporate/pages/privacy-policy-content.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"au/",
+			"",
+			"au/",
+			"",
+			"*.js",
+			"",
+			"*.css",
+			"",
+			"*.js,/Users/jarretgabel/Sites/ibm-smarter-enterprise/html/js/src",
+			"*.js",
+			"",
+			"*.hbs",
+			"",
+			"- js/stylesheet.css",
+			"",
+			"*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"count=3",
+			"count=2",
+			"count",
+			"whatsNew[2]",
+			"whatsNew[1]",
+			"tweenlite",
+			"this.el =",
+			"this.overlay",
+			"tweenlite",
+			"setState",
+			"Media Center",
+			".mxb-sitemap-item:nth-child(6)",
+			"com.sg",
+			"maxbrenner@chocolateculture.com.sg\nmaxbrenner@chocolateculture.com.sg\nmaxbrenner@chocolateculture.com.sg",
+			"kenning",
+			"maxbrenner@chocolateculture.com.sg",
+			"singapore",
+			"chocolate bar",
+			"faq",
+			"locations",
+			"careers",
+			"shop.maxbrenner.com",
+			"shop",
+			"app/",
+			".mxb-location-details-nav-usa",
+			"setOverlay",
+			"media center",
+			"center",
+			"media center",
+			"mbaus",
+			"formatAustralia",
+			"storeLocatorText",
+			"locations-store-locator-store-name",
+			"locator",
+			"territor",
+			"VIC",
+			"mxb-location-vert-rule-inner",
+			"mxb-location-details-nav-usa",
+			".mxb-location-vert-rule",
+			"usa",
+			"locale",
+			"USA",
+			"firstR",
+			"footerSharing",
+			"this.firstRun",
+			"this.open",
+			"onClick",
+			"getLocalizedUICopy",
+			"locale",
+			".json",
+			"json",
+			"australia",
+			"//:0",
+			"X-UA-Compa",
+			"meta",
+			"h4",
+			"zipcode",
+			"mxb-newsletter-title",
+			"<div class=\"icon-footer-max-mail\"></div>",
+			":src => \"\"",
+			"mxb-slideshow-page-",
+			":type => \"zipcode\"",
+			"zipcode",
+			"zip",
+			":type => \"zipcode\"",
+			"zipcode",
+			"type=\"zipcode\"",
+			"zipcode_placeholder",
+			"00000",
+			"placeholder=\"00000\"",
+			":src => \"\"",
+			"mxb-slideshow-page-",
+			"mxb-page-",
+			"birthday_placeholder",
+			"\"Month/Day/Year\"",
+			"placeholder=\"Month/Day/Year\"",
+			"checked",
+			"checked=\"false\"",
+			"mxb-newsletter-dob",
+			"mxb-slideshow-page",
+			"mxb-slideshow-page-intro",
+			"mxb-page-item",
+			"<div class=\"mxb-page-item\" id=\"mxb-page-chocolate-bar\" data=\"\">",
+			"aboutUs",
+			"brand-timeline-left",
+			"english",
+			"sweets",
+			"breakfast",
+			"english",
+			"hours",
+			"address",
+			"add",
+			"location-address",
+			"email",
+			"location-phone",
+			".icon-location-reservations",
+			"location-reservations",
+			"reserva",
+			"reservations-icon",
+			"max-blog",
+			"beforeUpdate",
+			"addShareButtons",
+			"slug ==",
+			"chocolate-experience",
+			"render",
+			"set",
+			"delay",
+			"ipad",
+			"isIPhone",
+			"toggleThumbnail",
+			"modernizr",
+			"this.content",
+			"mxb-site-loader-content",
+			"mxb-site-loader-addicted",
+			".icon-loading-addicted",
+			"loading.png",
+			"loading-addicted.png",
+			"</p>",
+			"<p>",
+			"</span>",
+			"<span class=\"subtitle\">",
+			"tweenlite",
+			"@media",
+			"@include background-size",
+			"background-size",
+			"background-siz",
+			"pixel-ratio",
+			"-webkit-min-device-pixel-ratio: 2.0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"shop.maxbrenner.com.au",
+			"/assets/images/ui/pixel.png",
+			":type => \"text\"",
+			"type=\"text\"",
+			"'mainNavPages' => getMainNavPages(),",
+			"getMainNavPages()",
+			"{{ root }}assets/stylesheets/corporate",
+			"/assets/images/corporate",
+			"/assets/javascripts/corporate",
+			"(-webkit-min-device-pixel-ratio: 2), (-moz-min-device-pixel-ratio: 2)",
+			"{% extends 'main/base.html' %}",
+			"0",
+			"newPageSlug",
+			"this.win.trigger",
+			"this.doc.on",
+			"this.doc.trigger",
+			"am-",
+			"shop-your-experience",
+			"newsletter",
+			"mxb-newsletter-input",
+			"mxb-newsletter-submit",
+			".mxb-newsletter-submit",
+			"max-blog",
+			".icon-",
+			"shop",
+			"views/slideshow.haml",
+			"TweenLite",
+			"MXB.Config.SPEED",
+			"MXB.Config.EASE",
+			"MXB.views",
+			"BaseView",
+			"MainPages",
+			"MXB.Config",
+			"MXB.view",
+			"BaseView",
+			"currentUrl",
+			"nextUrl",
+			"METADATA_UPDATE\nMETADATA_UPDATE",
+			"PAGE_UPDATE",
+			"perspectives-intro-animation-holder",
+			"",
+			"Solutions:",
+			"validateEmail",
+			"$.utils",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 17,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "au/app/templates/main/base.haml",
+					"settings":
+					{
+						"buffer_size": 976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								920,
+								920
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP Haml/PHP Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "au/app/data/seed.php",
+					"settings":
+					{
+						"buffer_size": 124763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52188,
+								52188
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19010.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "au/public/corporate/index.php",
+					"settings":
+					{
+						"buffer_size": 4878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2369,
+								2369
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1015.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/javascripts/App.js",
+					"settings":
+					{
+						"buffer_size": 6149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1050,
+								1050
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/javascripts/views/Footer.js",
+					"settings":
+					{
+						"buffer_size": 6806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4047,
+								4047
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/templates/main/base.haml",
+					"settings":
+					{
+						"buffer_size": 976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP Haml/PHP Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "au/app/templates/sitemap/base.html",
+					"settings":
+					{
+						"buffer_size": 1496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								890,
+								890
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "au/app/templates/corporate/base.html",
+					"settings":
+					{
+						"buffer_size": 2714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								882,
+								882
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/templates/main/pages/chocolate-connoisseur.haml",
+					"settings":
+					{
+						"buffer_size": 5760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1859,
+								2040
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP Haml/PHP Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "au/app/templates/main/pages/chocolate-connoisseur.haml",
+					"settings":
+					{
+						"buffer_size": 5750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2038,
+								2038
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP Haml/PHP Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/data/seed.php",
+					"settings":
+					{
+						"buffer_size": 127524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54108,
+								54108
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19936.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/templates/main/pages/whats-new.haml",
+					"settings":
+					{
+						"buffer_size": 1889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP Haml/PHP Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "au/app/assets/stylesheets/whats-new.scss",
+					"settings":
+					{
+						"buffer_size": 1867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1867
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "au/app/templates/main/pages/whats-new.haml",
+					"settings":
+					{
+						"buffer_size": 1889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1889
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP Haml/PHP Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "public/index.php",
+					"settings":
+					{
+						"buffer_size": 9788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4271,
+								4271
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2103.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/assets/javascripts/views/WhatsNew.js",
+					"settings":
+					{
+						"buffer_size": 1851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1277,
+								1277
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 341.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "au/public/sitemap/index.php",
+					"settings":
+					{
+						"buffer_size": 1405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								533
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"settings":
+					{
+						"buffer_size": 1438,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										345,
+										352
+									],
+									[
+										660,
+										667
+									],
+									[
+										1007,
+										1014
+									],
+									[
+										1299,
+										1306
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"detect_indentation": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 25.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"aupublieind",
+				"au/public/sitemap/index.php"
+			],
+			[
+				"public",
+				"public/index.php"
+			],
+			[
+				"whatsnew.js",
+				"app/assets/javascripts/views/WhatsNew.js"
+			],
+			[
+				"inde",
+				"public/index.php"
+			],
+			[
+				"auwhats-ne",
+				"au/app/templates/main/pages/whats-new.haml"
+			],
+			[
+				"auwhats",
+				"au/app/assets/stylesheets/whats-new.scss"
+			],
+			[
+				"what",
+				"app/templates/main/pages/whats-new.haml"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"auseed",
+				"au/app/data/seed.php"
+			],
+			[
+				"seed",
+				"app/data/seed.php"
+			],
+			[
+				"choco",
+				"au/app/templates/main/pages/chocolate-connoisseur.haml"
+			],
+			[
+				"aucorpbase",
+				"au/app/templates/corporate/base.html"
+			],
+			[
+				"ausitemapbase",
+				"au/app/templates/sitemap/base.html"
+			],
+			[
+				"base",
+				"app/templates/main/base.haml"
+			],
+			[
+				"footer",
+				"app/assets/javascripts/views/Footer.js"
+			],
+			[
+				"app",
+				"app/assets/javascripts/App.js"
+			],
+			[
+				"aucorpind",
+				"au/public/corporate/index.php"
+			],
+			[
+				"aubase",
+				"au/app/templates/main/base.haml"
+			],
+			[
+				"ausitem",
+				"au/app/templates/sitemap/pages/home.html"
+			],
+			[
+				"sitemap",
+				"app/templates/sitemap/pages/home.html"
+			],
+			[
+				"aufaq",
+				"au/app/templates/corporate/pages/faqs-content.html"
+			],
+			[
+				"faqcontent",
+				"app/templates/corporate/pages/faqs-content.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"aupubli",
+				"au/public/index.php"
+			],
+			[
+				"aulocations",
+				"au/app/assets/stylesheets/locations.scss"
+			],
+			[
+				"aulocat",
+				"au/app/templates/main/pages/locations.haml"
+			],
+			[
+				"loca",
+				"app/templates/main/pages/locations.haml"
+			],
+			[
+				"aufooter.html",
+				"au/app/templates/main/globals/footer.html"
+			],
+			[
+				"footer.js",
+				"au/app/assets/javascripts/views/Footer.js"
+			],
+			[
+				"ausitemap",
+				"au/app/templates/sitemap/pages/home.html"
+			],
+			[
+				"footer.html",
+				"app/templates/main/globals/footer.html"
+			],
+			[
+				"location",
+				"app/assets/javascripts/views/Locations.js"
+			],
+			[
+				"feedback",
+				"app/templates/corporate/pages/feedback-content.html"
+			],
+			[
+				"feed",
+				"app/templates/mobile/pages/corporate/feedback-success.haml"
+			],
+			[
+				"publindex",
+				"public/index.php"
+			],
+			[
+				"soci",
+				"app/assets/stylesheets/social.scss"
+			],
+			[
+				"asy",
+				"app/assets/javascripts/vendor/AsyncAPI.js"
+			],
+			[
+				"cho",
+				"app/templates/main/pages/chocolate-connoisseur.haml"
+			],
+			[
+				"ut",
+				"app/utils/utils.php"
+			],
+			[
+				"ind",
+				"public/index.php"
+			],
+			[
+				"htac",
+				"public/.htaccess"
+			],
+			[
+				"meta",
+				"app/templates/main/globals/metadata.haml"
+			],
+			[
+				"met",
+				"app/templates/mobile/globals/metadata.haml"
+			],
+			[
+				"choc",
+				"app/templates/main/pages/chocolate-connoisseur.haml"
+			],
+			[
+				"reser",
+				"app/assets/stylesheets/reservations.scss"
+			],
+			[
+				"mo",
+				"app/assets/javascripts/MobileApp.js"
+			],
+			[
+				"about",
+				"public/assets/stylesheets/corporate/about-us.css"
+			],
+			[
+				"ui",
+				"app/assets/stylesheets/_ui.scss"
+			],
+			[
+				"main",
+				"app/assets/javascripts/views/MainNav.js"
+			],
+			[
+				"conf",
+				"app/assets/javascripts/Config.js"
+			],
+			[
+				"r",
+				"app/assets/javascripts/views/Reservations.js"
+			],
+			[
+				"slide",
+				"app/assets/javascripts/views/Slideshow.js"
+			],
+			[
+				"whats",
+				"app/assets/javascripts/views/WhatsNew.js"
+			],
+			[
+				"whats-new.js",
+				"public/assets/javascripts/whats-new-archives/home.js"
+			],
+			[
+				"home.js",
+				"app/assets/javascripts/views/Home.js"
+			],
+			[
+				"home",
+				"app/assets/stylesheets/home.scss"
+			],
+			[
+				"mainpage",
+				"app/assets/javascripts/views/MainPages.js"
+			],
+			[
+				"locat",
+				"app/assets/javascripts/views/Locations.js"
+			],
+			[
+				"rese",
+				"app/assets/javascripts/views/Reservations.js"
+			],
+			[
+				"ap",
+				"app/assets/javascripts/App.js"
+			],
+			[
+				"moder",
+				"public/assets/javascripts/modernizr-2.7.1.js"
+			],
+			[
+				"css.h",
+				"app/templates/main/globals/css.haml"
+			],
+			[
+				"typ",
+				"app/assets/stylesheets/typography.scss"
+			],
+			[
+				"site",
+				"app/assets/javascripts/views/SiteLoader.js"
+			],
+			[
+				"siteload",
+				"app/templates/main/site-loader.haml"
+			],
+			[
+				"usa.",
+				"app/locale/usa.json"
+			],
+			[
+				"mobileind",
+				"public/mobile/index.php"
+			],
+			[
+				"faq",
+				"app/templates/corporate/pages/faqs-mobile-content.html"
+			],
+			[
+				"styl",
+				"public/assets/stylesheets/corporate/styles.css"
+			],
+			[
+				"mobile",
+				"app/assets/javascripts/MobileApp.js"
+			],
+			[
+				"styles.css",
+				"public/assets/stylesheets/corporate/styles.css"
+			],
+			[
+				"slid",
+				"app/assets/stylesheets/slideshow.scss"
+			],
+			[
+				"content",
+				"app/templates/corporate/pages/careers-mobile-content.html"
+			],
+			[
+				"careers",
+				"app/templates/corporate/pages/careers-content.html"
+			],
+			[
+				"utils",
+				"app/utils/utils.php"
+			],
+			[
+				"mobilescr",
+				"app/templates/mobile/globals/scripts.haml"
+			],
+			[
+				"mobilecss.haml",
+				"app/templates/mobile/globals/css.haml"
+			],
+			[
+				"mobilebase",
+				"app/templates/mobile/base.haml"
+			],
+			[
+				"mobilin",
+				"public/mobile/index.php"
+			],
+			[
+				"publicin",
+				"public/index.php"
+			],
+			[
+				"feedback-con",
+				"app/templates/corporate/pages/feedback-content.html"
+			],
+			[
+				"mainnav",
+				"app/templates/main/globals/main-nav.html"
+			],
+			[
+				"media",
+				"app/templates/corporate/pages/media-center-mobile-content.html"
+			],
+			[
+				"htacces",
+				"public/corporate/.htaccess"
+			],
+			[
+				"mobilein",
+				"public/mobile/index.php"
+			],
+			[
+				"success",
+				"app/templates/corporate/pages/feedback-success.html"
+			],
+			[
+				"mobilesli",
+				"app/templates/mobile/views/slideshow.haml"
+			],
+			[
+				"faqs",
+				"app/templates/corporate/pages/faqs-content.html"
+			],
+			[
+				"medi",
+				"app/templates/corporate/pages/media-center-content.html"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/styles.scss"
+			],
+			[
+				"se",
+				"app/data/seed.php"
+			],
+			[
+				"see",
+				"app/data/seed.php"
+			],
+			[
+				"mobi",
+				"app/assets/javascripts/MobileApp.js"
+			],
+			[
+				"foot",
+				"app/assets/stylesheets/footer.scss"
+			],
+			[
+				"mobilefooter",
+				"app/templates/mobile/globals/footer.haml"
+			],
+			[
+				"base-p",
+				"app/templates/corporate/base-plain.html"
+			],
+			[
+				"sli",
+				"app/assets/stylesheets/slideshow.scss"
+			],
+			[
+				"mobilescrits",
+				"app/templates/mobile/globals/scripts.haml"
+			],
+			[
+				"mobil",
+				"app/assets/javascripts/MobileApp.js"
+			],
+			[
+				"obile",
+				"app/assets/javascripts/MobileApp.js"
+			],
+			[
+				"mobilesocial",
+				"app/templates/mobile/views/social-newsletter-form.haml"
+			],
+			[
+				"newslt",
+				"app/assets/javascripts/controllers/NewsletterFormController.js"
+			],
+			[
+				"mob",
+				"app/assets/javascripts/MobileApp.js"
+			],
+			[
+				"newslet",
+				"app/assets/javascripts/controllers/NewsletterFormController.js"
+			],
+			[
+				"mobileslid",
+				"app/templates/mobile/views/slideshow.haml"
+			],
+			[
+				"reservation",
+				"app/templates/mobile/views/reservations-form.haml"
+			],
+			[
+				"reservat",
+				"app/assets/stylesheets/reservations.scss"
+			],
+			[
+				"reservationform",
+				"app/templates/mobile/views/reservations-form.haml"
+			],
+			[
+				"mobilereser",
+				"app/templates/mobile/pages/reservations.haml"
+			],
+			[
+				"reserv",
+				"app/assets/javascripts/views/Reservations.js"
+			],
+			[
+				"mobilejs",
+				"app/assets/javascripts/MobileApp.js"
+			],
+			[
+				"",
+				"app/assets/javascripts/views/Reservations.js"
+			],
+			[
+				"css",
+				"app/templates/mobile/globals/css.haml"
+			],
+			[
+				"priv",
+				"app/templates/corporate/pages/privacy-policy-content.html"
+			],
+			[
+				"sed",
+				"app/data/seed.php"
+			],
+			[
+				"corpsty",
+				"public/assets/stylesheets/corporate/styles.css"
+			],
+			[
+				"corpstyl",
+				"public/assets/stylesheets/corporate/styles.css"
+			],
+			[
+				"mobilefoo",
+				"app/templates/mobile/globals/footer.haml"
+			],
+			[
+				"main-nav-list",
+				"app/templates/mobile/globals/main-nav-list.haml"
+			],
+			[
+				"mobilemain",
+				"app/templates/mobile/globals/main-nav.haml"
+			],
+			[
+				"util",
+				"app/utils/utils.php"
+			],
+			[
+				"mobileinde",
+				"public/mobile/index.php"
+			],
+			[
+				"terms",
+				"app/templates/corporate/pages/terms-of-use-content.html"
+			],
+			[
+				"mobilcss",
+				"app/templates/mobile/globals/css.haml"
+			],
+			[
+				"pri",
+				"app/templates/corporate/pages/privacy-policy-content.html"
+			],
+			[
+				"index",
+				"app/templates/mobile/index.haml"
+			],
+			[
+				"pubin",
+				"public/index.php"
+			],
+			[
+				"corin",
+				"public/corporate/index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,13 @@
+%script{ :src => "/assets/javascripts/plugins.js" }
+%script{ :src => "/assets/javascripts/scripts.js" }
+
+
+%script{ :id => "sfcode1" }
+	:plain
+		var jed ={
+			event: 'landing',
+			cookieexpire: '30'
+		};
+
+		(function() {var sf = document.createElement('script'); sf.type='text/javascript'; sf.async=true; sf.src='//sftrack.searchforce.net/SFConversionTracking/sfct.js';var s=document.getElementById('sfcode1'); s.parentNode.insertBefore(sf, s);
+		})();

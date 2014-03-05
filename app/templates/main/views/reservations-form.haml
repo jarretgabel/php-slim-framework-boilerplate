@@ -1,0 +1,65 @@
+%form#mxb-reservations-form.mxb-reservations-form
+
+	.mxb-form-body
+		.mxb-reservations-form-inner
+
+			.mxb-reservations-form-side
+
+				.mxb-newsletter-control
+					%h5.mxb-newsletter-title
+						= "#{ui.reservations.restaurant}*:"
+					%select#mxb-reservations-restaurant.mxb-reservations-restaurant{ :tabindex => 1 }
+						%option{ :value => "", :disabled => "disabled", :selected => "selected" }
+							= "#{ui.reservations.restaurant_placeholder}"
+						- for location in usLocations
+							- if location.opentable_id
+								%option{ :value => "#{location.opentable_id}" }
+									= "#{location.city}, #{location.state}"
+
+				.mxb-newsletter-control
+					%h5.mxb-newsletter-title
+						= "#{ui.reservations.date}*:"
+					%input#mxb-reservations-date.mxb-newsletter-input.mxb-reservations-date{ :placeholder => "#{ui.reservations.date_placeholder}", :tabindex => 2 }
+
+		.mxb-reservations-form-side
+
+			.mxb-newsletter-control
+				%h5.mxb-newsletter-title
+					= "#{ui.reservations.time}*:"
+				%select#mxb-reservations-time.mxb-reservations-time{ :tabindex => 3 }
+					%option{ :value => "", :disabled => "disabled", :selected => "selected" }
+						= "#{ui.reservations.time_placeholder}"
+					- for i in 7..11
+						%option{ :value => "#{i}:00am" }
+							= "#{i}:00am"
+						%option{ :value => "#{i}:30am" }
+							= "#{i}:30am"
+					%option{ :value => "12:00pm" }
+						= "12:00pm"
+					%option{ :value => "12:30pm" }
+						= "12:30pm"
+					- for i in 1..11
+						%option{ :value => "#{i}:00pm" }
+							= "#{i}:00pm"
+						%option{ :value => "#{i}:30pm" }
+							= "#{i}:30pm"
+					%option{ :value => "12:00am" }
+						= "12:00am"
+					%option{ :value => "12:30am" }
+						= "12:30am"
+					- for i in 1..3
+						%option{ :value => "#{i}:00am" }
+							= "#{i}:00am"
+
+			.mxb-newsletter-control
+				%h5.mxb-newsletter-title
+					= "#{ui.reservations.number}*:"
+				%select#mxb-reservations-number{ :tabindex => 4 }
+					- for i in 1..20
+						%option{ :value => i }
+							= i
+
+	.mxb-newsletter-control
+		%h5.mxb-newsletter-title.mxb-contact-required
+			= "* #{ui.newsletter.required}"
+		%input.icon-reservations-submit.mxb-reservations-submit{ :type => "submit", :value => "", :tabindex => 5 }

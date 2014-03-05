@@ -1,0 +1,24 @@
+!!!
+<!--[if lt IE 7]>     <html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>        <html class="no-js ie lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>        <html class="no-js ie lt-ie9 ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>        <html class="no-js ie ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]>     <!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+%head
+	- include 'main/globals/metadata.haml'
+	- include 'main/globals/css.haml'
+
+	%script{ :src => "/assets/javascripts/modernizr-2.7.1.js" }
+
+%body
+
+	- include 'main/globals/main-nav.haml'
+
+	- block content endblock
+
+	#fb-root
+
+	- include 'main/globals/footer.haml'
+
+	- include 'main/globals/scripts.haml'

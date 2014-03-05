@@ -1,0 +1,7 @@
+<?php
+
+  $GLOBALS['videos'] = array(
+
+  );
+
+?>

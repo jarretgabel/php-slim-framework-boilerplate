@@ -1,0 +1,32 @@
+@mixin animate($prop, $time:"", $delay:"", $easing: "") {
+  @if $time == "" {
+    $time: 0.5s;
+  }
+  @if $delay == "" {
+    $delay: 0s;
+  }
+  @if $easing == "easeInOutBack" {
+    @include transition-timing-function(cubic-bezier(0.680, -0.550, 0.265, 1.550));
+  } @else if $easing == "easeOutBack" {
+    @include transition-timing-function(cubic-bezier(0.175, 0.885, 0.320, 1.275));
+  } @else {
+    @include transition-timing-function(cubic-bezier(0.645, 0.045, 0.355, 1.000));
+  }
+  @include transition-property($prop);
+  @include transition-duration($time);
+  @include transition-delay($delay);
+}
+
+@mixin placeholder {
+  &::-webkit-input-placeholder { @content; }
+  &:-moz-placeholder { @content; }
+  &::-moz-placeholder { @content; }
+  &:-ms-input-placeholder { @content; }
+}
+
+// @mixin opacity($value){
+//   $IEValue: $value*100;
+//   opacity: $value;
+//   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity="+$IEValue+")";
+//   filter: alpha(opacity=$IEValue);
+// }

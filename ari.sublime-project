@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/jarretgabel/Sites/max-brenner",
+			"folder_exclude_patterns": [
+				".sass-cache",
+				"app/vendor",
+				"node_modules",
+				"public/wp-blog"
+			],
+			"file_exclude_patterns": [
+				"app/assets/javascripts/vendor/jquery-2.0.3.min.js",
+				"app/assets/javascripts/vendor/TweenLite.min.js",
+				"app/assets/javascripts/vendor/CSSPlugin.min.js",
+				"public/assets/javascripts/scripts.js",
+				"public/assets/javascripts/plugins.js",
+				"public/assets/stylesheets/styles.css",
+				"mxb.sublime-workspace"
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    haml (4.0.3)
+      tilt
+    haml-contrib (1.0.0.1)
+      haml (>= 3.2.0.alpha.13)
+    tilt (1.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  haml
+  haml-contrib

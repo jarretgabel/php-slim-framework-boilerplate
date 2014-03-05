@@ -1,0 +1,12 @@
+{
+  "require": {
+		"slim/slim": "2.*",
+    "twig/twig": "1.*",
+    "twig/extensions": "dev-master",
+    "ricardoper/twitteroauth": "dev-master",
+    "slim/extras": "*",
+    "mthaml/mthaml": "*",
+    "php-instagram-api/php-instagram-api": "dev-master",
+    "facebook/php-sdk": "@stable"
+  }
+}

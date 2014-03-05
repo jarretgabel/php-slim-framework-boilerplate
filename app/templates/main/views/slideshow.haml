@@ -1,0 +1,63 @@
+.mxb-slideshow{ :id => "mxb-slideshow-#{page.id}" }
+	.mxb-slideshow-pagenation{ :id => "mxb-slideshow-pagenation-#{page.id}" }
+		.mxb-slideshow-pagenation-inner
+			- for subpage in page.subpages
+				.mxb-slideshow-page-outer
+					%a.mxb-slideshow-page-anchor{ :href => "/#{page.slug}/#{subpage.slug}" }
+						.mxb-slideshow-page{ :id => "mxb-slideshow-page-#{page.id}-#{subpage.id}" }
+					.mxb-slideshow-page-thumbnail{ :class => "mxb-slideshow-page-thumbnail-#{page.id}-#{subpage.id}" }
+
+	.mxb-slideshow-content{ :id => "mxb-slideshow-content-#{page.id}" }
+		- for subpage in page.subpages
+			.mxb-slideshow-slide{ :class => "mxb-slideshow-slide-#{page.id}-#{subpage.id}", :id => "mxb-slideshow-slide-#{subpage.id}", :data => { image: "#{subpage.image}" }}
+				- set nextUrl = page.slug == 'chocolate-experience' ? '/shop' : '/chocolate-experience'
+				- set url = loop.index < page.subpages|length ? page.subpages[loop.index].slug : nextUrl
+
+				%a.mxb-internal-url{ :href => "#{url}" }
+					- if loop.index < page.subpages|length
+						.icon-arrow-right.slideshow-right-arrow-navigation
+					- if loop.index == page.subpages|length
+						.icon-arrow-down.slideshow-down-arrow-navigation
+
+				.mxb-slideshow-slide-signature
+				- if subpage.hotspots
+					.mxb-slideshow-hotspots
+						- for hotspot in subpage.hotspots
+							.mxb-slideshow-hotspot{ :style => "top: #{hotspot.y}; left: #{hotspot.x};"}
+								%a{ :href => "javascript:void(0);"}
+									.mxb-slideshow-hotspot-dot.icon-slideshow-hotspot
+								.mxb-slideshow-hotspot-content
+									.mxb-slideshow-hotspot-content-inner
+										%h3.mxb-hotspot-title= hotspot.title|raw
+										%p.mxb-hotspot-body= hotspot.body|raw
+
+				.mxb-slideshow-slide-content
+					.mxb-slideshow-slide-content-inner
+
+						.mxb-slideshow-slide-content-left
+							.mxb-slideshow-slide-content-left-content
+								.mxb-slideshow-slide-content-left-content-title
+								.mxb-slideshow-slide-content-copy
+									.mxb-slideshow-slide-content-body
+										= subpage.copy|raw
+									.mxb-slideshow-slide-content-share
+										.mxb-slideshow-slide-content-share-inner
+											- include "main/views/slideshow-share.haml"
+
+									%a{ :href => "http://shop.maxbrenner.com/", :target => "_blank" }
+										.icon-shop-online-1
+										.icon-shop-online-2
+
+						.mxb-slideshow-slide-content-right
+							.mxb-slideshow-slide-content-right-content
+								.mxb-slideshow-slide-content-right-content-title
+								.mxb-slideshow-slide-content-copy
+									.mxb-slideshow-slide-content-body
+										= subpage.copy|raw
+									.mxb-slideshow-slide-content-share
+										.mxb-slideshow-slide-content-share-inner
+											- include "main/views/slideshow-share.haml"
+
+									%a{ :href => "http://shop.maxbrenner.com/", :target => "_blank" }
+										.icon-shop-online-1
+										.icon-shop-online-2

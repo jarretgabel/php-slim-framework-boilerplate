@@ -1,0 +1,50 @@
+%form#mxb-social-newsletter-form.mxb-newsletter-form.mxb-social-newsletter-form{ :action => "/newsletter", :method => "post" }
+	.mxb-form-thank-you
+		%p.mxb-footer-form-thank-you-copy
+			= "#{ui.newsletter.thank_you}"
+	.mxb-form-body
+		.mxb-newsletter-form-inner
+
+			.mxb-newsletter-control
+				%h5.mxb-newsletter-title
+					= "#{ui.newsletter.email}*:"
+				%input.mxb-newsletter-input.mxb-newsletter-email{ :type => "email", :placeholder => "#{ui.newsletter.email_placeholder}", :tabindex => 1 }
+
+			.mxb-newsletter-control
+				%h5.mxb-newsletter-title
+					= "#{ui.newsletter.gender}:"
+				%select.mxb-newsletter-sex{ :tabindex => 3 }
+					%option{ :value => "", :selected => "selected", :disabled => "disabled" }
+						= "#{ui.newsletter.select_one}"
+					%option{ :value => "#{ui.newsletter.male}" }
+						= "#{ui.newsletter.male}"
+					%option{ :value => "#{ui.newsletter.female}" }
+						= "#{ui.newsletter.female}"
+				.gender-radios
+					.gender-radio
+						%input#radio-male{:type => "radio", :value => "#{ui.newsletter.male}", :name => "gender", :checked => "false"}
+						%label{:for => "radio-male"}= "#{ui.newsletter.male}"
+					.gender-radio
+						%input#radio-female{:type => "radio", :value => "#{ui.newsletter.female}", :name => "gender", :checked => "false"}
+						%label{:for => "radio-female"}= "#{ui.newsletter.female}"
+
+			.mxb-newsletter-control
+				%h5.mxb-newsletter-title
+					= "#{ui.newsletter.name}:"
+				%input.mxb-newsletter-input.mxb-newsletter-firstname{ :type => "text", :placeholder => "#{ui.newsletter.first_name_placeholder}", :tabindex => 4, :name => "first-name" }
+				%input.mxb-newsletter-input.mxb-newsletter-lastname{ :type => "text", :placeholder => "#{ui.newsletter.last_name_placeholder}", :tabindex => 5, :name => "last-name" }
+
+			.mxb-newsletter-control
+				%h5.mxb-newsletter-title
+					= "#{ui.newsletter.birthday}:"
+				%input.mxb-newsletter-input.mxb-newsletter-dob{ :type => "date", :tabindex => 6 }
+
+			.mxb-newsletter-control
+				%h5.mxb-newsletter-title
+					= "#{ui.newsletter.zipcode}:"
+				%input.mxb-newsletter-input.mxb-newsletter-zipcode{ :type => "text", :pattern => "[0-9]*", :placeholder => "#{ui.newsletter.zipcode_placeholder}", :tabindex => 7 }
+
+			.mxb-newsletter-control
+				%h5.mxb-newsletter-title.mxb-contact-required
+					= "* #{ui.newsletter.required}"
+				%input.icon-social-newsletter-submit.mxb-social-newsletter-submit{ :type => "submit", :value => "", :tabindex => 8 }
